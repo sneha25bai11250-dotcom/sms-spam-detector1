@@ -1,5 +1,5 @@
 # sms-spam-detector1
-# SMS Spam Classifier 📱
+# SMS Spam Classifier 
 
 This project is a machine learning web application built with **Streamlit** that predicts whether an incoming SMS message is **Spam** or **Not Spam (Ham)**. [cite_start]It uses a Multinomial Naive Bayes model trained on a collection of over 5,500 tagged messages[cite: 2, 10, 23].
 
