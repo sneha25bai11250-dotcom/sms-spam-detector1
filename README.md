@@ -5,14 +5,14 @@ This project is a machine learning web application built with **Streamlit** that
 
 ---
 
-## 🛠️ Features
+##  Features
 * **Text Preprocessing**: Uses `CountVectorizer` to handle raw text data and remove English stop words.
 * [cite_start]**Efficient Classification**: Implements the `MultinomialNB` algorithm for fast and accurate classification[cite: 23].
 * **Interactive UI**: A simple, web-based interface for users to validate messages in real-time.
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 [cite_start]The project utilizes the **SMS Spam Collection v.1**, a public set of tagged messages collected for research[cite: 1]. 
 
 * [cite_start]**Total Messages**: 5,574 English messages[cite: 2].
@@ -25,7 +25,7 @@ This project is a machine learning web application built with **Streamlit** that
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Installation
 Clone this repository and install the necessary dependencies:
